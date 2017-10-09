@@ -1,5 +1,6 @@
 # OctoKit
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Foctokit.objc.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Foctokit.objc?ref=badge_shield)
 
 OctoKit is a Cocoa and Cocoa Touch framework for interacting with the [GitHub
 API](https://developer.github.com/), built using
@@ -375,3 +376,6 @@ _This is only needed **on OS X**._
 
 OctoKit is released under the MIT license. See
 [LICENSE.md](https://github.com/Octokit/octokit.objc/blob/master/LICENSE.md).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Foctokit.objc.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Foctokit.objc?ref=badge_large)
